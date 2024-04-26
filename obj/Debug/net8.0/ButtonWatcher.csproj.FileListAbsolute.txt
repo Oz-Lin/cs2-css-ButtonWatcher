@@ -1,0 +1,11 @@
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\bin\Debug\net8.0\ButtonWatcher.deps.json
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\bin\Debug\net8.0\ButtonWatcher.dll
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\bin\Debug\net8.0\ButtonWatcher.pdb
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ButtonWatcher.csproj.AssemblyReference.cache
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ButtonWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ButtonWatcher.csproj.CoreCompileInputs.cache
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ButtonWatcher.sourcelink.json
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ButtonWatcher.dll
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\refint\ButtonWatcher.dll
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ButtonWatcher.pdb
+C:\Users\OP9020\Documents\cs2-ze\cs2-css-ButtonWatcher\obj\Debug\net8.0\ref\ButtonWatcher.dll

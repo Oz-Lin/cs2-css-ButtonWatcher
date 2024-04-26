@@ -12,8 +12,8 @@ namespace ButtonWatcher;
 public class ButtonWatcherPlugin : BasePlugin
 {
     public override string ModuleName => "ButtonWatcher";
-    public override string ModuleVersion => "1";
-    public override string ModuleAuthor => "石";
+    public override string ModuleVersion => "1.1";
+    public override string ModuleAuthor => "石, Oz-Lin";
     public override string ModuleDescription => "Watcher for when func_button pressed";
 
     public override void Load(bool hotReload)
