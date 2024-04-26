@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +32,7 @@
               "RelativeDocumentMoniker": "ButtonWatcher.cs",
               "ToolTip": "C:\\Users\\OP9020\\Documents\\cs2-ze\\cs2-css-ButtonWatcher\\ButtonWatcher.cs",
               "RelativeToolTip": "ButtonWatcher.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwA8AAAA1AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-26T08:05:55.232Z",
               "EditorCaption": ""
@@ -36,19 +40,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ButtonWatcher",
+              "Title": "ButtonWatcher.csproj",
               "DocumentMoniker": "C:\\Users\\OP9020\\Documents\\cs2-ze\\cs2-css-ButtonWatcher\\ButtonWatcher.csproj",
               "RelativeDocumentMoniker": "ButtonWatcher.csproj",
               "ToolTip": "C:\\Users\\OP9020\\Documents\\cs2-ze\\cs2-css-ButtonWatcher\\ButtonWatcher.csproj",
               "RelativeToolTip": "ButtonWatcher.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-26T08:04:23.973Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-04-26T08:04:23.973Z"
             }
           ]
         }
